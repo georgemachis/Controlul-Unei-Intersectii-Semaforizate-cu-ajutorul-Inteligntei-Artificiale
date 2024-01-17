@@ -1,0 +1,35 @@
+Capitolul 1 - Introducere
+	1.1. Contextul lucrarii
+	1.2. Stadiul actual in literatura de specialiate 
+	1.3. Motivatie
+	1.4. Obiectivele proiectului
+	1.5. Structura lucrarii
+Capitolul 2 - Notiuni de baza 
+	2.1. Concepte de baza in trafic(cum se controleaza semafoarele si cum etc)
+	2.2. Ce este detectarea de imagini
+	2.3. Retele neurale 
+	2.4. Unity Notiuni generale
+Capitolul 3 - Controlul unei intersectii semaforizate utilizand Inteligenta artificiala
+	3.1. Prezentarea problemei
+	3.2. Arhitectura YOLO
+		3.2.1. Backbone-ul 
+		3.2.2. Straturile finale
+	3.3. Antrenarea retelei
+		3.3.1. Setul de date de antrenare
+		3.3.2. Procesul de antrenare
+	3.4. Crearea simularii in unity 
+		3.4.1. Integrarea Yolo in unity
+		3.4.2. 
+		3.4.3. 
+Capitolul 4 - Rezultate experimentale
+	4.1.
+	4.2. Timp de rulare
+	4.3. 
+		4.3.1 -
+		4.3.2 - 
+		4.3.3 - 
+		4.3.4 - 
+Capitolul 5. - Concluzii
+	5.1. - concluzii generale
+	5.2. - concluzii personale
+	5.3. - posibilitatii de dezvoltare ulterioara
